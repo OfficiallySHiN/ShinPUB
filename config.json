@@ -1,7 +1,7 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
+  "prefix": "shin",
+  "token": "MTI2MjMyOTE1MzI5NDY5NjU2MA.Gy8wBR.cUY8zG5-ne9x0f9oHF7cpBbkAnW9av78laGFk8",
+  "owners": ["@ft._shin"],
   "footer": "NSFW Bot • is.gd/nsfwbot",
 
   "msg": {
